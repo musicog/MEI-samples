@@ -1,0 +1,2 @@
+- name: Validate Encodings
+  uses: e-laute/validate_encodings@main
